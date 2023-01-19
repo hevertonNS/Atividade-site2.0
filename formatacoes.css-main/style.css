@@ -1,0 +1,24 @@
+.div1 {
+    margin-top: 30px;
+    /* margem no topo do texto */
+    margin-left: 20px;
+    /* margem ao lado*/
+    margin-bottom: 10px;
+    /* margem em baixo */
+    margin: 30px;
+    border: red 5px solid;
+    width: 150px;
+    /* tamanho da borda */
+    padding-top: 30px;
+    /* espaçamento dentro da borda */
+    padding: 20px;
+    /* espaço para todos os lados*/
+    background-color: rgb(247, 181, 181);
+
+}
+
+.text {
+    width: 50%;
+    /* tela em 50% */
+    
+}
